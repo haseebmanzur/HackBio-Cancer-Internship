@@ -16,7 +16,7 @@ undermining the effectiveness of therapies and leaving patients like
 Sarah with limited options. It occurs when cancer cells adapt and
 survive despite the presence of therapeutic agents, leading to treatment
 failure and relapse as shown in the Figure below \[1\].
-
+![alt text](https://scandiononcology.com/wp-content/uploads/2021/12/Cell-illustration-What-is-cancer-drug-resistance_v5.png)
 This phenomenon is driven by several mechanisms, each more complex than
 the last, making it a formidable challenge in oncology. One of the
 primary drivers of drug resistance in cancer is genetic mutation \[1\].
