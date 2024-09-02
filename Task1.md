@@ -34,6 +34,8 @@ cytotoxic effects. Multidrug-resistant (MDR) cancer cells, which
 overexpress P-gp, can withstand a broad range of chemotherapeutic
 agents, making treatment increasingly difficult \[1,3\].
 
+![alt text](https://scandiononcology.com/wp-content/uploads/2021/12/Cell-illustration-What-is-cancer-drug-resistance_v5.png)
+
 The tumor microenvironment also plays a crucial role in drug resistance.
 Hypoxia, a condition of low oxygen levels within tumors, can induce the
 expression of survival genes, rendering cancer cells more resistant to
