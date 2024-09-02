@@ -17,9 +17,6 @@ undermining the effectiveness of therapies and leaving patients like
 Sarah with limited options. It occurs when cancer cells adapt and
 survive despite the presence of therapeutic agents, leading to treatment
 failure and relapse \[1\].
-![](vertopal_29bc2a4e8ca14519a8e2afe8ef641fc6/media/image1.png){width="6.5in"
-height="3.051388888888889in"}
-
 This phenomenon is driven by several mechanisms as shown in the Figure
 below, each more complex than the last, making it a formidable challenge
 in oncology. One of the primary drivers of drug resistance in cancer is
