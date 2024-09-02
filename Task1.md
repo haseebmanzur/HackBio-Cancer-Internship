@@ -16,9 +16,9 @@ Drug resistance is a relentless adversary in the fight against cancer,
 undermining the effectiveness of therapies and leaving patients like
 Sarah with limited options. It occurs when cancer cells adapt and
 survive despite the presence of therapeutic agents, leading to treatment
-failure and relapse \[1\].
-This phenomenon is driven by several mechanisms as shown in the Figure
-below, each more complex than the last, making it a formidable challenge
+failure and relapse as shown in Figure below \[1\].
+![alt text](https://scandiononcology.com/wp-content/uploads/2021/12/Cell-illustration-What-is-cancer-drug-resistance_v5.png)
+This phenomenon is driven by several mechanisms, each more complex than the last, making it a formidable challenge
 in oncology. One of the primary drivers of drug resistance in cancer is
 genetic mutation \[1\]. Cancer cells, with their inherent genetic
 instability, are prone to acquiring mutations that can alter the target
@@ -33,9 +33,6 @@ reducing the drugs\' intracellular concentrations and diminishing their
 cytotoxic effects. Multidrug-resistant (MDR) cancer cells, which
 overexpress P-gp, can withstand a broad range of chemotherapeutic
 agents, making treatment increasingly difficult \[1,3\].
-
-![alt text](https://scandiononcology.com/wp-content/uploads/2021/12/Cell-illustration-What-is-cancer-drug-resistance_v5.png)
-
 The tumor microenvironment also plays a crucial role in drug resistance.
 Hypoxia, a condition of low oxygen levels within tumors, can induce the
 expression of survival genes, rendering cancer cells more resistant to
