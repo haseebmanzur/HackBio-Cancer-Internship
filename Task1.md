@@ -3,7 +3,7 @@
 The hospital room was dimly lit, the sterile smell of antiseptic
 lingering in the air. Sarah stared at the IV drip, its slow, rhythmic
 drops almost mocking the urgency of her situation. The doctors had been
-optimistic when they started her on the latest targeted therapy---a
+optimistic when they started her on the latest targeted therapy; a
 beacon of hope in her battle against non-small cell lung cancer (NSCLC).
 But now, as she listened to their somber tones and felt the weight of
 their hesitant words, she realized that something had gone wrong. The
