@@ -12,8 +12,7 @@ to eradicate it.
 **Drug Resistance**
 
 Drug resistance is a relentless adversary in the fight against cancer,
-undermining the effectiveness of therapies and leaving patients like
-Sarah with limited options. It occurs when cancer cells adapt and
+undermining the effectiveness of therapies and leaving patients with limited options. It occurs when cancer cells adapt and
 survive despite the presence of therapeutic agents, leading to treatment
 failure and relapse as shown in the Figure below \[1\].
 ![alt text](https://scandiononcology.com/wp-content/uploads/2021/12/Cell-illustration-What-is-cancer-drug-resistance_v5.png)
