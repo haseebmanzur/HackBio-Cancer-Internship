@@ -74,7 +74,7 @@ Shoutout to all my fellow intern-mates who collaborated on this internship!
 | 7 | Premalata Pati | https://github.com/premalata23 | https://www.linkedin.com/in/dr-premalata-pati |
 | 8 | Hana Mahmoud Mazroua | https://github.com/hanamahmoudd29 | https://www.linkedin.com/in/hana-mazroua |
 | 9 | Nourhan Adel ElHifnawy | https://github.com/NourhanElhifnawy | https://www.linkedin.com/in/nourhan-elhifnawy |
-| 10 | Jesse Frank Juma |  | https://www.linkedin.com/in/jesse-frank-juma |
+| 10 | Jesse Frank Juma | https://github.com/frank1645 | https://www.linkedin.com/in/jesse-frank-juma |
 
 
  
