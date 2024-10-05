@@ -7,19 +7,19 @@
 Welcome to my repository for the HackBio Internship 2024, a collaborative and immersive experience to advance bioinformatics skills through real-world data projects.
 
 
-# About HackBio
+## About HackBio
 
 HackBio is a bioinformatics internship founded to bridge the gap between knowledge and application in computational biology. With a strong focus on mentorship, collaboration, and hands-on learning, HackBio allowed us, aspiring scientists and bioinformaticians, to work on significant projects with real-life implications.
 
 
-# Internship Track: AMR in Cancer
+## Internship Track: AMR in Cancer
 
 For this project, my teammates and I worked on the Antimicrobial Resistance (AMR) in Cancer track.
 
 Antimicrobial resistance roughly refers to the ability of microbes (_such as bacteria, fungi, viruses, and parasites_) to evolve and resist the effects of drugs that were once effective against them. This phenomenon is challenging in cancer treatment, particularly for immunocompromised patients undergoing chemotherapy, where infections caused by resistant pathogens can lead to complications.
 
 
-# Tools and Software Used
+## Tools and Software Used
 
 Throughout the internship, Python, R, and Bash were used.
 
