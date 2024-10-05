@@ -40,6 +40,14 @@ Throughout the internship, Python, R, and Bash were used.
 
 Shoutout to all my fellow intern-mates who collaborated on this internship!
 
+| Authors | Name | GitHub | LinkedIn |
+| :---: | :---: | :---: | :---: |
+| 1 | Sarani Nativel-Santerne | https://github.com/Sarani-NS | https://www.linkedin.com/in/haseebmanzoor |
+| 2 | Yetunde Alo Mary | https://github.com/aloyetunde | https://www.linkedin.com/in/yetunde-alo-mary |
+| 3 | Nada ElSayed Ahmed | https://github.com/Nada-EA | https://www.linkedin.com/in/nada-elsayed-ahmed |
+| 4 | Nada ElHadidy | https://github.com/nada-elhadidy | https://www.linkedin.com/in/nada-elhadidy |
+| 5 | Merna Salem | https://github.com/MernaSalem | https://www.linkedin.com/in/merna-salem |
+
 |             |                         |                                       |                                                                                  |
 | ----------- | ----------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
 | **Authors** | **Name**                | **GitHub**                            | **LinkedIn**                                                                     |
