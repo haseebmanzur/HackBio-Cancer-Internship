@@ -40,7 +40,6 @@ Throughout the internship, Python, R, and Bash were used.
 
 Shoutout to all my fellow intern-mates who collaborated on this internship!
 
-|             |                         |                                       |                                                                                  |
 | ----------- | ----------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
 | **Authors** | **Name**                | **GitHub**                            | **LinkedIn**                                                                     |
 | 1           | Sarani Nativel-Santerne | <https://github.com/Sarani-NS>        | [https://ww.linkedin.com/in/sarani-nativel-santerne](https://ww.linkedin.com/in) |
