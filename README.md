@@ -43,7 +43,8 @@ Shoutout to all my fellow intern-mates who collaborated on this internship!
 |             |                         |                                       |                                                                                  |
 | ----------- | ----------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
 | **Authors** | **Name**                | **GitHub**                            | **LinkedIn**                                                                     |
-| 1           | Sarani Nativel-Santerne | <https://github.com/Sarani-NS>        | [https://ww.linkedin.com/in/sarani-nativel-santerne](https://ww.linkedin.com/in) |
+| 1           | Sarani Nativel-Santerne | <https://github.com/Sarani-NS>        | <https://ww.linkedin.com/in/sarani-nativel-santerne>    
+                         |
 | 2           | Yetunde Alo Mary        | <https://github.com/aloyetunde>       | <https://www.linkedin.com/in/yetunde-alo-mary>                                   |
 | 3           | Nada ElSayed Ahmed      | <https://github.com/Nada-EA>          | <https://www.linkedin.com/in/nada-elsayed-ahmed>                                 |
 | 4           | Nada ElHadidy           | <https://github.com/nada-elhadidy>    | <https://www.linkedin.com/in/nada-elhadidy>                                      |
