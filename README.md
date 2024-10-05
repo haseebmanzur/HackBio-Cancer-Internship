@@ -1,32 +1,8 @@
-HackBio Internship 2024
+# HackBio Internship 2024
 
-<!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
- style='width:79.5pt;height:79.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/HP/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg"
-  o:title=""/>
-</v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/HP/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)<!--[endif]-->****
+[Link to the official website](https://thehackbio.com/)
 
-[**Link to the official website**](https://thehackbio.com/)****
+![icon](https://github.com/user-attachments/assets/e5898106-82fb-4b0b-b252-e50282ee5706)
 
 Welcome to my repository for the HackBio Internship 2024, a collaborative and immersive experience to advance bioinformatics skills through real-world data projects.
 
@@ -64,7 +40,6 @@ Throughout the internship, Python, R, and Bash were used.
 
 Shoutout to all my fellow intern-mates who collaborated on this internship!
 
-|             |                         |                                       |                                                                                  |
 | ----------- | ----------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
 | **Authors** | **Name**                | **GitHub**                            | **LinkedIn**                                                                     |
 | 1           | Sarani Nativel-Santerne | <https://github.com/Sarani-NS>        | [https://ww.linkedin.com/in/sarani-nativel-santerne](https://ww.linkedin.com/in) |
@@ -78,12 +53,5 @@ Shoutout to all my fellow intern-mates who collaborated on this internship!
 | 9           | Nourhan Adel ElHifnawy  | <https://github.com/NourhanElhifnawy> | <https://www.linkedin.com/in/nourhan-elhifnawy>                                  |
 | 10          | Jesse Frank Juma        |                                       | <https://www.linkedin.com/in/jesse-frank-juma>                                   |
 
- 
-
-** **
-
- 
-
-** **
 
  
