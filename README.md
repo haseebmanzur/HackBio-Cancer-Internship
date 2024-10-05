@@ -42,26 +42,17 @@ Shoutout to all my fellow intern-mates who collaborated on this internship!
 
 | Authors | Name | GitHub | LinkedIn |
 | :---: | :---: | :---: | :---: |
-| 1 | Sarani Nativel-Santerne | https://github.com/Sarani-NS | https://www.linkedin.com/in/haseebmanzoor |
+| 1 | Sarani Nativel-Santerne | https://github.com/Sarani-NS | https://ww.linkedin.com/in/sarani-nativel-santerne |
 | 2 | Yetunde Alo Mary | https://github.com/aloyetunde | https://www.linkedin.com/in/yetunde-alo-mary |
 | 3 | Nada ElSayed Ahmed | https://github.com/Nada-EA | https://www.linkedin.com/in/nada-elsayed-ahmed |
 | 4 | Nada ElHadidy | https://github.com/nada-elhadidy | https://www.linkedin.com/in/nada-elhadidy |
-| 5 | Merna Salem | https://github.com/MernaSalem | https://www.linkedin.com/in/merna-salem |
+| 5 | Astrid Liliana Vargas | https://github.com/Liliana223 | https://www.linkedin.com/in/astrid-liliana-vargas |
+| 6 | Dua Gulzar | https://github.com/duagulzar | http://linkedin.com/in/dua-gulzar |
+| 7 | Premalata Pati | https://github.com/premalata23 | https://www.linkedin.com/in/dr-premalata-pati |
+| 8 | Hana Mahmoud Mazroua | https://github.com/hanamahmoudd29 | https://www.linkedin.com/in/hana-mazroua |
+| 9 | Nourhan Adel ElHifnawy | https://github.com/NourhanElhifnawy | https://www.linkedin.com/in/nourhan-elhifnawy |
+| 10 | Jesse Frank Juma |  | https://www.linkedin.com/in/jesse-frank-juma |
 
-|             |                         |                                       |                                                                                  |
-| ----------- | ----------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
-| **Authors** | **Name**                | **GitHub**                            | **LinkedIn**                                                                     |
-| 1           | Sarani Nativel-Santerne | <https://github.com/Sarani-NS>        | <https://ww.linkedin.com/in/sarani-nativel-santerne>    
-                         |
-| 2           | Yetunde Alo Mary        | <https://github.com/aloyetunde>       | <https://www.linkedin.com/in/yetunde-alo-mary>                                   |
-| 3           | Nada ElSayed Ahmed      | <https://github.com/Nada-EA>          | <https://www.linkedin.com/in/nada-elsayed-ahmed>                                 |
-| 4           | Nada ElHadidy           | <https://github.com/nada-elhadidy>    | <https://www.linkedin.com/in/nada-elhadidy>                                      |
-| 5           | Astrid Liliana Vargas   | <https://github.com/Liliana223>       | <https://www.linkedin.com/in/astrid-liliana-vargas>                              |
-| 6           | Dua Gulzar              | <https://github.com/duagulzar>        | <http://linkedin.com/in/dua-gulzar>                                              |
-| 7           | Premalata Pati          | <https://github.com/premalata23>      | <https://www.linkedin.com/in/dr-premalata-pati>                                  |
-| 8           | Hana Mahmoud Mazroua    | <https://github.com/hanamahmoudd29>   | <https://www.linkedin.com/in/hana-mazroua>                                       |
-| 9           | Nourhan Adel ElHifnawy  | <https://github.com/NourhanElhifnawy> | <https://www.linkedin.com/in/nourhan-elhifnawy>                                  |
-| 10          | Jesse Frank Juma        |                                       | <https://www.linkedin.com/in/jesse-frank-juma>                                   |
 
  
 
