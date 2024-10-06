@@ -29,7 +29,7 @@ Throughout the internship, Python, R, and Bash were used.
 
 ## Stage 0: Introduction to Drug Resistance
 
-**Goal**: Write an essay (400 words) on Drug Resistance (AMR) in cancer using references. 
+**Goal**: Write an essay (400 words) on Drug Resistance in cancer using references. 
 
 **Implication**: This step involves understanding the intersection between cancer treatment and drug resistance, where resistance to antibiotics affects treatment outcomes, particularly in cancer patients. For example, it can influence immunotherapy efficiency. This stage focuses on research synthesis and scientific communication, explaining the challenges of managing infections in cancer patients while balancing antibiotic use.
 
