@@ -41,7 +41,9 @@ Throughout the internship, Python, R, and Bash were used.
 
 ## Stage 2: AMR Data Analysis
 
-**Goal**: Download and clean the AMR Products Dataset, perform statistical analysis, visualize data, and generate key insights about AMR trends. 
+**Goal**: Download and clean the AMR Products Dataset, perform statistical analysis, visualize data, and generate key insights about AMR trends.
+
+![image](https://github.com/user-attachments/assets/dd82ffe7-16c1-447e-b14f-889c4c7c2de1)
 
 **Implication**: The task is aimed at developing data analysis skills by cleaning, processing, and interpreting an AMR dataset. By visualizing trends in AMR product development, it’s possible to identify promising drug candidates and understand AMR dynamics in different regions. This stage focuses on technical skills in data science (e.g., using Python or R), and critical thinking to extract insights that can influence public health strategies.
 
@@ -49,16 +51,31 @@ Throughout the internship, Python, R, and Bash were used.
 
 **Goal**: Introduce bioinformatics using Bash scripting for a simulated wet-lab biologist, alongside analyzing a WHO dataset about cholera outbreaks, using R.
 
+![image](https://github.com/user-attachments/assets/782d6f13-e8ad-4220-b91f-94bd22d52634)
+
 **Implication**: This phase provides foundational bioinformatics tasks with an emphasis on Bash scripting for sequencing data analysis and file navigation. By offering simple, yet powerful, scripts, wet-lab biologists can automate tasks like genome assembly, variant calling, and data preprocessing. The parallel analysis of the cholera outbreak dataset exemplifies the importance of bioinformatics tools in handling global health data. Through this, we demonstrate how key insights from large datasets like cholera outbreaks can inform public health decisions and antimicrobial resistance (AMR) strategies.
 
 ## Stage 4: NGS Pipeline Development
 
 **Goal**: Build an NGS analysis pipeline using bash or another workflow manager (e.g., Nextflow, Snakemake) for real datasets. 
 
+![image](https://github.com/user-attachments/assets/f679545c-44a7-4331-8cfd-036197ee032b)
+
 **Implication**: This final stage integrates various bioinformatics tools (FastQC, FastP, BWA, FreeBayes) into a cohesive pipeline for NGS data analysis. By running tasks like quality control, trimming, genome alignment, and variant calling in an automated fashion, it provides a reproducible framework for researchers to analyze multiple datasets. This step demonstrates technical proficiency in building scalable and efficient pipelines for genomics research.
 
 ---
 
+# Take-home message
+
+The HackBio Internship 2024 provided me a unique opportunity to develop bioinformatics skills by dealing with real-world data related to AMR in cancer and cholera outbreaks. Through collaborative projects, I gained hands-on experience in using bioinformatics tools such as Python, R, and Bash scripting to analyze complex datasets and build automated workflows. 
+
+This experience has been unlike any other course I’ve taken, primarily due to the level of autonomy we had. While our mentors were available for support when needed, they didn’t hand us any code—just project guidelines—and that was fantastic. 
+
+At first, starting an analysis from scratch felt intimidating, especially after being used to highly guided projects where everything was essentially "spoon-fed." But now, working with real datasets feels much more approachable, and I’m incredibly grateful for that growth. Keep an eye out for new projects popping up on my GitHub!
+
+For those interested, HackBio will open another round of applications next year. Be sure to follow them on LinkedIn and take advantage of this incredible learning experience !
+
+---
 # Collaborators
 
 Shoutout to all my fellow intern-mates who collaborated on this internship!
