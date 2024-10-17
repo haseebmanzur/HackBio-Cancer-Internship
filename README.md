@@ -28,9 +28,7 @@ Throughout the internship, Python, R, and Bash were used.
 ## Stage 0: Introduction to Drug Resistance
 
 **Goal**: Write an essay (400 words) on Drug Resistance in cancer using references. 
-
 ![alt text](https://scandiononcology.com/wp-content/uploads/2021/12/Cell-illustration-What-is-cancer-drug-resistance_v5.png)
-
 **Implication**: This step involves understanding the intersection between cancer treatment and drug resistance, where resistance to antibiotics affects treatment outcomes, particularly in cancer patients. For example, it can influence immunotherapy efficiency. This stage focuses on research synthesis and scientific communication, explaining the challenges of managing infections in cancer patients while balancing antibiotic use.
 
 ## Stage 1: Literature Review
