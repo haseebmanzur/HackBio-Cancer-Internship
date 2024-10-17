@@ -6,15 +6,13 @@
 
 Welcome to my repository for the HackBio Internship 2024, a collaborative and immersive experience to advance bioinformatics skills through real-world data projects.
 
-
 ## About HackBio
 
 HackBio is a bioinformatics internship founded to bridge the gap between knowledge and application in computational biology. With a strong focus on mentorship, collaboration, and hands-on learning, HackBio allowed us, aspiring scientists and bioinformaticians, to work on significant projects with real-life implications.
 
+## Track: AMR in Cancer
 
-## Internship Track: AMR in Cancer
-
-For this project, my teammates and I worked on the Antimicrobial Resistance (AMR) in Cancer track.
+My teammates and I worked on the Antimicrobial Resistance (AMR) in Cancer track for this project.
 
 Antimicrobial resistance roughly refers to the ability of microbes (_such as bacteria, fungi, viruses, and parasites_) to evolve and resist the effects of drugs that were once effective against them. This phenomenon is challenging in cancer treatment, particularly for immunocompromised patients undergoing chemotherapy, where infections caused by resistant pathogens can lead to complications.
 
@@ -31,11 +29,15 @@ Throughout the internship, Python, R, and Bash were used.
 
 **Goal**: Write an essay (400 words) on Drug Resistance in cancer using references. 
 
+![alt text](https://scandiononcology.com/wp-content/uploads/2021/12/Cell-illustration-What-is-cancer-drug-resistance_v5.png)
+
 **Implication**: This step involves understanding the intersection between cancer treatment and drug resistance, where resistance to antibiotics affects treatment outcomes, particularly in cancer patients. For example, it can influence immunotherapy efficiency. This stage focuses on research synthesis and scientific communication, explaining the challenges of managing infections in cancer patients while balancing antibiotic use.
 
 ## Stage 1: Literature Review
 
-**Goal**: Analyze the paper "Gut Resistome of NSCLC Patients Treated with Immunotherapy" & make a short video about it. 
+**Goal**: Analyze the paper "Gut Resistome of NSCLC Patients Treated with Immunotherapy" & make a short video about it.
+
+![image](https://github.com/user-attachments/assets/24945a68-efd7-4d86-81b4-af24f2957c84)
 
 **Implication**: The purpose here is to understand how gut microbiomes contribute to AMR in cancer treatments, particularly for non-small cell lung cancer (NSCLC) patients using immunotherapy. The task helps highlight how AMR genes can reduce the effectiveness of cancer treatments, providing insights into future personalized cancer therapies by managing resistance factors in the gut microbiome. Collaborative team engagement and research presentation are crucial here.
 
